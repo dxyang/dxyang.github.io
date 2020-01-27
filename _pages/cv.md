@@ -18,14 +18,10 @@ redirect_from:
 
 
 # Work experience
-**Samsung AI Center**, New York, NY, *September 2019 - present*
-
-Machine Learning Research Engineer
+**Machine Learning Research Engineer, Samsung AI Center**, New York, NY, *September 2019 - present*
 * Research at the intersection of computer vision, reinforcement learning, and robotics aiming to enable robot learning and interaction in unstructured environments. Current projects on image- based object manipulation and efficient deep reinforcement learning on robots through simulation to reality transfer learning.
 
-**Oculus (Facebook)**, Menlo Park, CA, *January 2018 - September 2019*
-
-Software Engineer
+**Software Engineer, Oculus (Facebook)**, Menlo Park, CA, *January 2018 - September 2019*
 * Applied computer vision/machine learning techniques towards body tracking on virtual reality headsets for use cases in social presence and safety. Combined deep learning approaches (Mask R-CNN) with classical methods (IK, physics-based solvers, 3D geometry) to deliver 3D pose and shape, detection, and segmentation of humans
 * Helped develop and ship the [Oculus Rift S](https://www.oculus.com/rift-s/). Full stack engineering from firmware/hal, to developer APIs, to critical performance optimizations. Enabling [smooth and precise SLAM](https://tech.fb.com/the-story-behind-oculus-insight-technology/) on every Rift S. Experimenting with features around 3D scene reconstruction and passthrough in VR.
 
