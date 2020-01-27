@@ -19,25 +19,27 @@ redirect_from:
 
 # Work experience
 **Machine Learning Research Engineer, Samsung AI Center**, New York, NY, *September 2019 - present*
-* Research at the intersection of computer vision, reinforcement learning, and robotics aiming to enable robot learning and interaction in unstructured environments. Current projects on image- based object manipulation and efficient deep reinforcement learning on robots through simulation to reality transfer learning.
+* Research at the intersection of computer vision, reinforcement learning, and robotics aiming to enable robot learning and interaction in unstructured environments.
 
 **Software Engineer, Oculus (Facebook)**, Menlo Park, CA, *January 2018 - September 2019*
-* Applied computer vision/machine learning techniques towards body tracking on virtual reality headsets for use cases in social presence and safety. Combined deep learning approaches (Mask R-CNN) with classical methods (IK, physics-based solvers, 3D geometry) to deliver 3D pose and shape, detection, and segmentation of humans
-* Helped develop and ship the [Oculus Rift S](https://www.oculus.com/rift-s/). Full stack engineering from firmware/hal, to developer APIs, to critical performance optimizations. Enabling [smooth and precise SLAM](https://tech.fb.com/the-story-behind-oculus-insight-technology/) on every Rift S. Experimenting with features around 3D scene reconstruction and passthrough in VR.
-
+* Applied computer vision/machine learning techniques towards body tracking on virtual reality headsets for use cases in social presence and safety.
+* Helped develop and ship the [Oculus Rift S](https://www.oculus.com/rift-s/).
 
 # Research projects
 **Deep Neural Networks for Conditional Mean Estimation**, Princeton University, *September 2016 - June 2017*
-* Senior thesis advised by Professor Peter Ramadge
+
+Senior thesis advised by Professor Peter Ramadge
 * Investigated using autoencoders and generative adversarial networks for conditional mean esti-
 mation on images. Explored and designed models to estimate occluded portions of images and compared performance of neural networks against an affine estimator, a minimum mean squared error estimator.
 
 **Solar NanoGrids Hub**, University of Oxford, *October 2015 - June 2016*
-* Oxford "4th year project" advised by Professor Malcolm McCulloch
-* Designed and implemented core features (data logging, local wireless communications, user man- agement) of an embedded system of a solar energy hub deployed in rural areas in the developing world, providing electricity for essential needs while gathering field data on human energy usage behaviors.
+
+Oxford "4th year project" advised by Professor Malcolm McCulloch
+* Designed and implemented core features of an embedded system of a solar energy hub deployed in rural areas in the developing world, providing electricity for essential needs while gathering field data on human energy usage behaviors.
 
 **The Photonic Neuron**, Princeton University, *December 2013 - June 2015*
-* Independent work advised by Professor Paul Prucnal
+
+Independent work advised by Professor Paul Prucnal
 * Simulated and fabricated a laser neuron, a biologically-inspired photonic spike processor capable of performing computation at high speeds and bandwidths, consisting of a III-V laser.
 
 
