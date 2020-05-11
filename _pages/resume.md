@@ -44,7 +44,8 @@ Independent work advised by Professor Paul Prucnal
 
 
 # Publications
-* Simmons-Edler, R., Eisner, B., **Yang, D.**, Bisulco, A., Mitchell, E., Seung, S., & Lee, D. (2019). QXplore: Q-learning Exploration by Maximizing Temporal Difference Error. [https://arxiv.org/abs/1906.08189](https://arxiv.org/abs/1906.08189)
+* Tosun, T., **Yang, D.**, Eisner, B., Isler, V., & Lee, D. (2020). Robotic Grasping through Combined image-Based Grasp Proposal and 3D Reconstruction. [https://arxiv.org/abs/2003.01649](https://arxiv.org/abs/2003.01649)
+* Simmons-Edler, R., Eisner, B., **Yang, D.**, Bisulco, A., Mitchell, E., Seung, S., & Lee, D. (2020). Reward Prediction Error as an Exploration Objective in Deep RL. IJCAI 2020. [https://arxiv.org/abs/1906.08189](https://arxiv.org/abs/1906.08189)
 * **Yang, D.**, Celik, H., Wackerle, D., Kinnaird, D., Eranki, A., Oetgen, M., Kim, A., Sharma, K., Kim, H., Kim, P., Yarmolenko, P. (2015). Optical measurement of skin temperature in MR-HIFU. Journal of Therapeutic Ultrasound. [https://dx.doi.org/10.1186%2F2050-5736-3-S1-P81](https://dx.doi.org/10.1186%2F2050-5736-3-S1-P81)  
 
 # Awards and honors
