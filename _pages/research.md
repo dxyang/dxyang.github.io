@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-**Robotic Grasping through Combined image-Based Grasp Proposal and 3D Reconstruction**  
+**Robotic Grasping through Combined Image-Based Grasp Proposal and 3D Reconstruction**  
 *Daniel Yang*, Tarik Tosun, Ben Eisner, Volkan Isler, Daniel Lee  
 In review for ICRA 2021  
 [arxiv](https://arxiv.org/abs/2003.01649)
