@@ -8,43 +8,40 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
-**B.S.E in Electrical Engineering, Princeton University**, September 2013 - June 2017
-  * Certificates in Applications of Computing, Robotics and Intelligent Systems
-  * Graduated *magna cum laude*, GPA 3.73
+A PDF of my CV can be found [here](https://drive.google.com/file/d/1LedvDs3hKq6c-TE_73zCfte-vFLLgmGW/view?usp=sharing)
 
-**Visiting Student, University of Oxford**, October 2015 - June 2016
-  * Princeton-Oxford Engineering Exchange
+# Education
+**Ph.D. in Mechanical Engineering, Massachusetts Institute of Technology**, September 2020 - present  
+Sensing, Learning and Inference Group in MIT CSAIL  
+MIT / Woods Hole Oceanographic Institution (WHOI) Joint Program  
+Advised by John W. Fisher III  
+
+**B.S.E in Electrical Engineering, Princeton University**, September 2013 - June 2017  
+Certificates in Applications of Computing, Robotics and Intelligent Systems  
+Graduated *magna cum laude*, GPA 3.73
+
+**Visiting Student, University of Oxford**, October 2015 - June 2016  
+Princeton-Oxford Engineering Exchange
 
 
 # Work experience
-**Machine Learning Research Engineer, Samsung AI Center**, New York, NY, *September 2019 - present*
-* Research at the intersection of computer vision, reinforcement learning, and robotics aiming to enable robot learning and interaction in unstructured environments.
+**Machine Learning Research Engineer, Samsung AI Center**, New York, NY, *September 2019 - September 2020*
 
 **Software Engineer, Oculus (Facebook)**, Menlo Park, CA, *January 2018 - September 2019*
-* Applied computer vision/machine learning techniques towards body tracking on virtual reality headsets for use cases in social presence and safety.
-* Helped develop and ship the [Oculus Rift S](https://www.oculus.com/rift-s/).
 
 # Research projects
-**Deep Neural Networks for Conditional Mean Estimation**, Princeton University, *September 2016 - June 2017*
-
+**Deep Neural Networks for Conditional Mean Estimation**, Princeton University, *September 2016 - June 2017*  
 Senior thesis advised by Professor Peter Ramadge
-* Investigated using autoencoders and generative adversarial networks for conditional mean esti-
-mation on images. Explored and designed models to estimate occluded portions of images and compared performance of neural networks against an affine estimator, a minimum mean squared error estimator.
 
-**Solar NanoGrids Hub**, University of Oxford, *October 2015 - June 2016*
-
+**Solar NanoGrids Hub**, University of Oxford, *October 2015 - June 2016*  
 Oxford "4th year project" advised by Professor Malcolm McCulloch
-* Designed and implemented core features of an embedded system of a solar energy hub deployed in rural areas in the developing world, providing electricity for essential needs while gathering field data on human energy usage behaviors.
 
-**The Photonic Neuron**, Princeton University, *December 2013 - June 2015*
-
+**The Photonic Neuron**, Princeton University, *December 2013 - June 2015*  
 Independent work advised by Professor Paul Prucnal
-* Simulated and fabricated a laser neuron, a biologically-inspired photonic spike processor capable of performing computation at high speeds and bandwidths, consisting of a III-V laser.
 
 
 # Publications
-* Tosun, T., **Yang, D.**, Eisner, B., Isler, V., & Lee, D. (2020). Robotic Grasping through Combined image-Based Grasp Proposal and 3D Reconstruction. [https://arxiv.org/abs/2003.01649](https://arxiv.org/abs/2003.01649)
+* **Yang, D.**, Tosun, T., Eisner, B., Isler, V., & Lee, D. (2020). Robotic Grasping through Combined image-Based Grasp Proposal and 3D Reconstruction. [https://arxiv.org/abs/2003.01649](https://arxiv.org/abs/2003.01649)
 * Simmons-Edler, R., Eisner, B., **Yang, D.**, Bisulco, A., Mitchell, E., Seung, S., & Lee, D. (2020). Reward Prediction Error as an Exploration Objective in Deep RL. IJCAI 2020. [https://arxiv.org/abs/1906.08189](https://arxiv.org/abs/1906.08189)
 * **Yang, D.**, Celik, H., Wackerle, D., Kinnaird, D., Eranki, A., Oetgen, M., Kim, A., Sharma, K., Kim, H., Kim, P., Yarmolenko, P. (2015). Optical measurement of skin temperature in MR-HIFU. Journal of Therapeutic Ultrasound. [https://dx.doi.org/10.1186%2F2050-5736-3-S1-P81](https://dx.doi.org/10.1186%2F2050-5736-3-S1-P81)  
 
