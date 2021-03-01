@@ -17,7 +17,7 @@ author_profile: true
 
 **Robotic Grasping through Combined Image-Based Grasp Proposal and 3D Reconstruction**  
 *Daniel Yang*, Tarik Tosun, Ben Eisner, Volkan Isler, Daniel Lee  
-In review for ICRA 2021  
+ICRA 2021  
 [arxiv](https://arxiv.org/abs/2003.01649)
 
 **Reward Prediction Error as an Exploration Objective in Deep RL**  

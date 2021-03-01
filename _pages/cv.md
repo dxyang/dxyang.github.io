@@ -11,7 +11,7 @@ redirect_from:
 A PDF of my CV can be found [here](https://drive.google.com/file/d/1LedvDs3hKq6c-TE_73zCfte-vFLLgmGW/view?usp=sharing)
 
 # Education
-**Ph.D. in Mechanical Engineering, Massachusetts Institute of Technology**, September 2020 - present  
+**Ph.D. in Electrical Engineering and Computer Science, Massachusetts Institute of Technology**, September 2020 - present  
 Sensing, Learning and Inference Group in MIT CSAIL  
 MIT / Woods Hole Oceanographic Institution (WHOI) Joint Program  
 Advised by John W. Fisher III  
@@ -41,7 +41,7 @@ Independent work advised by Professor Paul Prucnal
 
 
 # Publications
-* **Yang, D.**, Tosun, T., Eisner, B., Isler, V., & Lee, D. (2020). Robotic Grasping through Combined image-Based Grasp Proposal and 3D Reconstruction. [https://arxiv.org/abs/2003.01649](https://arxiv.org/abs/2003.01649)
+* **Yang, D.**, Tosun, T., Eisner, B., Isler, V., & Lee, D. (2021). Robotic Grasping through Combined image-Based Grasp Proposal and 3D Reconstruction. ICRA 2021. [https://arxiv.org/abs/2003.01649](https://arxiv.org/abs/2003.01649)
 * Simmons-Edler, R., Eisner, B., **Yang, D.**, Bisulco, A., Mitchell, E., Seung, S., & Lee, D. (2020). Reward Prediction Error as an Exploration Objective in Deep RL. IJCAI 2020. [https://arxiv.org/abs/1906.08189](https://arxiv.org/abs/1906.08189)
 * **Yang, D.**, Celik, H., Wackerle, D., Kinnaird, D., Eranki, A., Oetgen, M., Kim, A., Sharma, K., Kim, H., Kim, P., Yarmolenko, P. (2015). Optical measurement of skin temperature in MR-HIFU. Journal of Therapeutic Ultrasound. [https://dx.doi.org/10.1186%2F2050-5736-3-S1-P81](https://dx.doi.org/10.1186%2F2050-5736-3-S1-P81)  
 
